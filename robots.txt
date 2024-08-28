@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://taleinode.github.io/sitemap/sitemap.txt
